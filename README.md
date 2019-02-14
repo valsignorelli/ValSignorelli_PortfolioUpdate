@@ -1,3 +1,3 @@
 # ValSignorelli_PortfolioUpdate
 
-See the Porftolio here: https://valsignorelli.github.io/Val-Signorelli-Portfolio/
+See the Porftolio here: https://valsignorelli.github.io/ValSignorelli_PortfolioUpdate/
